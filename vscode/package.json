@@ -6,7 +6,7 @@
   "publisher": "davidsant7e",
   "license": "MIT",
   "icon": "media/icono.png",
-  "repository": { "type": "git", "url": "https://github.com/davidsant7e/justicia" },
+  "repository": { "type": "git", "url": "https://github.com/el-ermitanho/justicia" },
   "engines": { "vscode": "^1.80.0" },
   "categories": ["SCM Providers", "Linters", "Other"],
   "keywords": ["git", "commit", "mensaje", "gemini", "conventional commits", "secretos"],
